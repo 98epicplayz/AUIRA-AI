@@ -1,0 +1,7 @@
+{
+  "name": "Auira AI",
+  "description": "Auira AI is a dark, sleek workplace for asking an AI anything. It uses purple gradients, smooth transitions, and a minimal, modern feel. Everything is designed to be calm, fast, and powerful — from one-off chats to multi-step video + image workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
